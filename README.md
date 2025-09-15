@@ -1,7 +1,9 @@
 🌐 [English](README.md) | [中文](README_zh.md)
 
 # Welcome to DragoPass EC Group!!!
-git clone this repo for template files
+```
+ <mark>git clone<mark> this repo for template files
+```
 
 #### Policies
 This assignment allows collaboration, online searching, generative AI. But please cite the origin of those content in your solution with comment. 
@@ -27,7 +29,7 @@ orientation-2026/
 ---
 
 # Questions
-## Task1: Referee(Judge) System Communication
+## Task1: Referee(Judge) System Communication (50 Points)
 
 ### Descriptions
 In RoboMaster matches, every robot communicates with the **Referee System** (a.k.a. Judge System) via a serial protocol (UART).  
@@ -77,7 +79,7 @@ A packet from the Judge System has the following structure (all values are in **
 
 ---
 
-## Task2: Implementing Chassis Control
+## Task2: Implementing Chassis Control (50 Points)
 ### Descriptions
 Your are asked to implement the chassis control program.
 I understand this sounds difficult, don't worry, I have constructed many helper functions for you.
