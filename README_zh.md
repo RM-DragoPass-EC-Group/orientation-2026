@@ -115,3 +115,7 @@ orientation-2026/
 - 50% 底盘程序实现（因无法测试，允许小错误）。  
 - 10% 辅助函数实现（PID_Init, Basic_PID_Controller, forward_kinematic, backward_kinematic）。  
 - 9% 代码风格（宽松标准）。  
+
+# 提交
+1. 将每个问题的答案分别写在不同的文件中。
+2. 将答案压缩成一个 .zip 文件，用你的“姓名_学号.zip”命名。

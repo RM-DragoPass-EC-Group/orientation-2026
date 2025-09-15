@@ -115,3 +115,7 @@ Check [Dev Standard](https://github.com/RM-DragoPass-EC-Group/.github/blob/main/
 10% each for implementing helper functions (PID_Init, Basic_PID_Controller, forward_kinematic, backward_kinematic)
 
 9% for coding style (loose standard)
+
+# Submission
+1. Write the solution for each question in different files.
+2. Compress your answers into one .zip file, named by "YourName_UrStudentID.zip".
