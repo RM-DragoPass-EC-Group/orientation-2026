@@ -2,7 +2,7 @@
 
 # Welcome to DragoPass EC Group!!!
 ```
- <mark>git clone<mark> this repo for template files
+ git clone this repo for template files
 ```
 
 #### Policies
